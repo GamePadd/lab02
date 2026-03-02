@@ -154,6 +154,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats1"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#09C300"
@@ -175,6 +176,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats2"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#FFCD00"
@@ -196,6 +198,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats3"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#09C300"
@@ -217,6 +220,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats4"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#FD8B00"
@@ -238,6 +242,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats5"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#09C300"
@@ -259,6 +264,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats6"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#09C300"
@@ -279,6 +285,7 @@
                     android:gravity="center"
                     android:layout_marginBottom="5dp"/>
                 <TextView
+                    android:id="@+id/stats7"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
                     android:background="#09C300"
